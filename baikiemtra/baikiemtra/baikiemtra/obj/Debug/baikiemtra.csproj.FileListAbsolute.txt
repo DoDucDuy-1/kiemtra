@@ -1,0 +1,13 @@
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\bin\Debug\baikiemtra.exe.config
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\bin\Debug\baikiemtra.exe
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\bin\Debug\baikiemtra.pdb
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.csproj.AssemblyReference.cache
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.Form1.resources
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.frmhoatdong.resources
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.frmthanhvien.resources
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.Properties.Resources.resources
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.csproj.GenerateResource.cache
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.csproj.CoreCompileInputs.cache
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.exe
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.pdb
+D:\HocTrenLop\Sql-visual\baikiemtra\baikiemtra\baikiemtra\obj\Debug\baikiemtra.exe.config
